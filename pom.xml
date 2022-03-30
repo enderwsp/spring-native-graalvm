@@ -137,7 +137,6 @@
 						<version>${native-buildtools.version}</version>
 						<configuration>
   <mainClass>com.example.demo.DemoApplication</mainClass>
-							<configuration>
   <buildArgs>
     <buildArg>
       --initialize-at-build-time=org.springframework.util.unit.DataSize
